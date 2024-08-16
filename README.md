@@ -4,7 +4,7 @@
 Welcome to the Multi-Step Registration Form website! This site showcases a dynamic and interactive form-building experience. Using modern React practices, you can navigate through a multi-step registration process that captures various pieces of information, including personal details, address, and account information. This project demonstrates advanced usage of React, form libraries, validation, and styling techniques. Whether you're interested in form handling or advanced client-side validation, this website will provide you with a comprehensive example.
 
 Click this link to see the preview:
-[Netlify](https://github.com/your-repo-link)
+[Netlify](https://first-react-form.netlify.app/)
 
 
 ---
