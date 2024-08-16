@@ -1,46 +1,45 @@
-# Getting Started with Create React App
+# Multi-Step Registration Form
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About this Website
+Welcome to the Multi-Step Registration Form website! This site showcases a dynamic and interactive form-building experience. Using modern React practices, you can navigate through a multi-step registration process that captures various pieces of information, including personal details, address, and account information. This project demonstrates advanced usage of React, form libraries, validation, and styling techniques. Whether you're interested in form handling or advanced client-side validation, this website will provide you with a comprehensive example.
 
-## Available Scripts
+Click this link to see the preview:
+[Netlify](https://github.com/your-repo-link)
 
-In the project directory, you can run:
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## About The Code
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+This project includes a React application that demonstrates the use of modern front-end technologies for building a multi-step registration form.
 
-### `npm test`
+- **React**: Utilized for building interactive user interfaces and managing state transitions between form steps.
+  
+- **TypeScript**: Provides static type checking to improve code quality and development efficiency.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Tailwind CSS**: Used for styling the form components, providing a responsive and visually appealing design.
 
-### `npm run build`
+- **Formik**: Manages form state and handles form submissions.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Yup**: Validates form input data, ensuring the accuracy and completeness of user-provided information.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **JavaScript**: Powers the functionality for form interactions and state management.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The project is structured to include a multi-step form with client-side validation and responsive styling. Each step collects specific data, and users can navigate between steps to complete their registration.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## About Me
+![Kiky Rizkia](https://i.ibb.co.com/jLcMssM/French-Girl-Chic-Leia-Sfez.png)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Hello, my name is Kiky Rizkianunky Woluwo, known as Kiky. I was born in 2000. I am from Makassar and graduated from Universitas Hasanuddin Makassar. I like coffee; I used to prefer robusta beans, but now I think I prefer arabica beans. Thank you.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+---
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Contact
 
-## Learn More
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png" alt="Instagram" width="20" /> @thatblackhairlady_
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="linkedin" width="20" /> [Kiky Rizkianunky Woluwo](https://www.linkedin.com/in/kiky-rizkianunky-woluwo-a742761b7/)  
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="20" /> [Kiky Rizkianunky Woluwo](mailto:kikyrizkianunkywofficial@gmail.com)
